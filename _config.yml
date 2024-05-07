@@ -1,8 +1,8 @@
 # Setup
-title: 'jonathan-scholbach.github.io'
+title: 'jnthnhrrr.github.io'
 tagline: 'Thoughts on Computer Programming 🌻'
 description:
-url: 'https://jonathan-scholbach.github.io'
+url: 'https://jnthnhrrr.github.io'
 paginate: 5
 permalink: pretty
 markdown: kramdown
@@ -17,9 +17,9 @@ kramdown:
 
 # About/contact
 author:
-  name: Jonathan Scholbach
+  name: Jonathan Herrera
   url:
-  email: j.scholbach@posteo.de
+  email: jonathan.herrera@posteo.de
 
 # Gems
 plugins:
@@ -31,7 +31,7 @@ plugins:
 # Custom vars
 version: 1.1.0
 google_analytics_id: G-1HBN305G9K
-repository_url: 'https://github.com/jonathan-scholbach/jonathan-scholbach.github.io/'
+repository_url: 'https://github.com/jnthnhrrr/jnthnhrrr.github.io/'
 
 collections:
   series:
