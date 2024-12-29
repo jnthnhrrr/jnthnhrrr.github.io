@@ -14,3 +14,5 @@ group :jekyll_plugins do
   gem 'jekyll-paginate'
   gem 'github-pages', '~> 228'
 end
+
+gem "webrick", "~> 1.9"
