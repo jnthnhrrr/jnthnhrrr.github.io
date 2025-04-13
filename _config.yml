@@ -3,7 +3,7 @@ title: 'jnthnhrrr.github.io'
 tagline: 'Thoughts on Computer Programming 🌻'
 description:
 url: 'https://jnthnhrrr.github.io'
-paginate: 5
+paginate: 10
 permalink: pretty
 markdown: kramdown
 highlighter: rouge
