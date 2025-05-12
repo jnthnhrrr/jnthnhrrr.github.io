@@ -2,10 +2,9 @@
 
 source 'https://rubygems.org'
 
-# gem 'rails'
-
 gem 'jekyll', '= 3.9.3'
 gem 'sass', '= 3.7.3'
+gem 'faraday', '= 1.8.0'
 
 group :jekyll_plugins do
   gem 'jekyll-sitemap'
